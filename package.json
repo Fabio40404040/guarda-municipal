@@ -1,0 +1,16 @@
+{
+  "name": "portal-guarda-municipal",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Portal institucional demonstrativo da Guarda Municipal",
+  "scripts": {
+    "dev": "vite --open /#inicio",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.5"
+  }
+}
